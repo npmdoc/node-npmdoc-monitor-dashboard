@@ -1,120 +1,120 @@
 <svg height="1870" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="1870" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-04 08:07:56 +0000  1686842 byte  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-04 08:07:56 +0000     1457 byte  History.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-04 08:07:56 +0000     1082 byte  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-04 08:07:56 +0000      970 byte  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-04 08:07:56 +0000      850 byte  config/default.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-04 08:07:56 +0000      805 byte  config/external.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-04 08:07:56 +0000        2 byte  config/runtime.json</tspan>
-<tspan x="10" y="138">  7.  2017-04-04 08:07:56 +0000     4551 byte  grunt.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-04 08:07:56 +0000     2808 byte  lib/css/default/ComponentSettings.css</tspan>
-<tspan x="10" y="170">  9.  2017-04-04 08:07:56 +0000     4052 byte  lib/css/default/ComponentView.css</tspan>
-<tspan x="10" y="186"> 10.  2017-04-04 08:07:56 +0000      449 byte  lib/css/default/DropDownMenu.css</tspan>
-<tspan x="10" y="202"> 11.  2017-04-04 08:07:56 +0000      762 byte  lib/css/default/JsonView.css</tspan>
-<tspan x="10" y="218"> 12.  2017-04-04 08:07:56 +0000      171 byte  lib/css/default/MonitorPicker.css</tspan>
-<tspan x="10" y="234"> 13.  2017-04-04 08:07:56 +0000     1202 byte  lib/css/default/NewComponentView.css</tspan>
-<tspan x="10" y="250"> 14.  2017-04-04 08:07:56 +0000     2727 byte  lib/css/default/PageSettings.css</tspan>
-<tspan x="10" y="266"> 15.  2017-04-04 08:07:56 +0000     4496 byte  lib/css/default/PageView.css</tspan>
-<tspan x="10" y="282"> 16.  2017-04-04 08:07:56 +0000     1815 byte  lib/css/default/SidebarView.css</tspan>
-<tspan x="10" y="298"> 17.  2017-04-04 08:07:56 +0000     1550 byte  lib/css/default/TourSettings.css</tspan>
-<tspan x="10" y="314"> 18.  2017-04-04 08:07:56 +0000     2274 byte  lib/css/default/TourView.css</tspan>
-<tspan x="10" y="330"> 19.  2017-04-04 08:07:56 +0000      603 byte  lib/css/default/TreeView.css</tspan>
-<tspan x="10" y="346"> 20.  2017-04-04 08:07:56 +0000     2818 byte  lib/css/default/UI.css</tspan>
-<tspan x="10" y="362"> 21.  2017-04-04 08:07:56 +0000    90600 byte  lib/css/default/bootstrap.css</tspan>
-<tspan x="10" y="378"> 22.  2017-04-04 08:07:56 +0000    79105 byte  lib/css/default/bootstrap.min.css</tspan>
-<tspan x="10" y="394"> 23.  2017-04-04 08:07:56 +0000    14981 byte  lib/css/default/font-awesome.css</tspan>
-<tspan x="10" y="410"> 24.  2017-04-04 08:07:56 +0000    22740 byte  lib/css/default/images/backbone-logo.png</tspan>
-<tspan x="10" y="426"> 25.  2017-04-04 08:07:56 +0000     2817 byte  lib/css/default/images/background.jpg</tspan>
-<tspan x="10" y="442"> 26.  2017-04-04 08:07:56 +0000    11774 byte  lib/css/default/images/default-component-icon.png</tspan>
-<tspan x="10" y="458"> 27.  2017-04-04 08:07:56 +0000    81170 byte  lib/css/default/images/favicon.ico</tspan>
-<tspan x="10" y="474"> 28.  2017-04-04 08:07:56 +0000    24546 byte  lib/css/default/images/highcharts.png</tspan>
-<tspan x="10" y="490"> 29.  2017-04-04 08:07:56 +0000     4213 byte  lib/css/default/images/jquery-logo.gif</tspan>
-<tspan x="10" y="506"> 30.  2017-04-04 08:07:56 +0000    30875 byte  lib/css/default/images/monitor.jpg</tspan>
-<tspan x="10" y="522"> 31.  2017-04-04 08:07:56 +0000     5081 byte  lib/css/default/images/nodejs-logo.png</tspan>
-<tspan x="10" y="538"> 32.  2017-04-04 08:07:56 +0000    38708 byte  lib/css/font/fontawesome-webfont.eot</tspan>
-<tspan x="10" y="554"> 33.  2017-04-04 08:07:56 +0000   130151 byte  lib/css/font/fontawesome-webfont.svg</tspan>
-<tspan x="10" y="570"> 34.  2017-04-04 08:07:56 +0000    68476 byte  lib/css/font/fontawesome-webfont.ttf</tspan>
-<tspan x="10" y="586"> 35.  2017-04-04 08:07:56 +0000    41752 byte  lib/css/font/fontawesome-webfont.woff</tspan>
-<tspan x="10" y="602"> 36.  2017-04-04 08:07:56 +0000    10358 byte  lib/ext/Backbone.ModelBinder.min.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-04 08:07:56 +0000     2393 byte  lib/ext/bootstrap-alert.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-04 08:07:56 +0000     2729 byte  lib/ext/bootstrap-dropdown.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-04 08:07:56 +0000     5678 byte  lib/ext/bootstrap-modal.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-04 08:07:56 +0000     7656 byte  lib/ext/bootstrap-tooltip.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-04 08:07:56 +0000    50119 byte  lib/ext/bootstrap.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-04 08:07:56 +0000    22455 byte  lib/ext/bootstrap.min.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-04 08:07:56 +0000    12973 byte  lib/ext/images/colors.png</tspan>
-<tspan x="10" y="730"> 44.  2017-04-04 08:07:56 +0000      706 byte  lib/ext/images/trigger.png</tspan>
-<tspan x="10" y="746"> 45.  2017-04-04 08:07:56 +0000    93435 byte  lib/ext/jquery-1.8.2.min.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-04 08:07:56 +0000     2228 byte  lib/ext/jquery.miniColors.css</tspan>
-<tspan x="10" y="778"> 47.  2017-04-04 08:07:56 +0000    13870 byte  lib/ext/jquery.miniColors.min.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-04 08:07:56 +0000    15505 byte  lib/ext/mustache-0.7.0-dev.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-04 08:07:56 +0000     5449 byte  lib/ext/numeral.min.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-04 08:07:56 +0000   175830 byte  lib/ext/socket.io/WebSocketMain.swf</tspan>
-<tspan x="10" y="842"> 51.  2017-04-04 08:07:56 +0000   175953 byte  lib/ext/socket.io/WebSocketMainInsecure.swf</tspan>
-<tspan x="10" y="858"> 52.  2017-04-04 08:07:56 +0000   100943 byte  lib/ext/socket.io/socket.io.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-04 08:07:56 +0000    44614 byte  lib/ext/socket.io/socket.io.min.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-04 08:07:56 +0000      971 byte  lib/index.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-04 08:07:56 +0000     3851 byte  lib/js/AppTemplate.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-04 08:07:56 +0000     4079 byte  lib/js/Component.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-04 08:07:56 +0000     6811 byte  lib/js/ComponentSettingsView.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-04 08:07:56 +0000    17852 byte  lib/js/ComponentView.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-04 08:07:56 +0000     2411 byte  lib/js/DropDownMenu.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-04 08:07:56 +0000     2915 byte  lib/js/IconChooser.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-04 08:07:56 +0000     7022 byte  lib/js/JsonView.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-04 08:07:56 +0000    11031 byte  lib/js/MonitorPicker.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-04 08:07:56 +0000     4579 byte  lib/js/NetworkMap.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-04 08:07:56 +0000     5250 byte  lib/js/NewComponentView.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-04 08:07:56 +0000     3250 byte  lib/js/Page.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-04 08:07:56 +0000     5080 byte  lib/js/PageSettingsView.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-04 08:07:56 +0000    18214 byte  lib/js/PageView.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-04 08:07:56 +0000    14177 byte  lib/js/PagesProbe.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-04 08:07:56 +0000    23699 byte  lib/js/Server.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-04 08:07:56 +0000     4895 byte  lib/js/SettingsView.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-04 08:07:56 +0000     2373 byte  lib/js/Sidebar.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-04 08:07:56 +0000     7684 byte  lib/js/SidebarView.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-04 08:07:56 +0000     1212 byte  lib/js/Site.js</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-04 08:07:56 +0000     7165 byte  lib/js/Template.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-04 08:07:56 +0000     1899 byte  lib/js/Tour.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-04 08:07:56 +0000    10193 byte  lib/js/TourSettingsView.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-04 08:07:56 +0000     6114 byte  lib/js/TourView.js</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-04 08:07:56 +0000     1237 byte  lib/js/ToursProbe.js</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-04 08:07:56 +0000     5472 byte  lib/js/Tree.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-04 08:07:56 +0000     1943 byte  lib/js/TreeProbe.js</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-04 08:07:56 +0000    12142 byte  lib/js/TreeView.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-04 08:07:56 +0000    20436 byte  lib/js/UI.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-04 08:07:56 +0000     1030 byte  lib/template/404.json</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-04 08:07:56 +0000     5635 byte  lib/template/About.html</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-04 08:07:56 +0000      159 byte  lib/template/ComponentIcon.html</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-04 08:07:56 +0000     2385 byte  lib/template/ComponentSettings.html</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-04 08:07:56 +0000      610 byte  lib/template/ComponentView.html</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-04 08:07:56 +0000      505 byte  lib/template/NewComponentView.html</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-04 08:07:56 +0000      542 byte  lib/template/NewPage.html</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-04 08:07:56 +0000      463 byte  lib/template/NewTourPage.html</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-04 08:07:56 +0000      619 byte  lib/template/PageCopy.html</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-04 08:07:56 +0000     2375 byte  lib/template/PageSettings.html</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-04 08:07:56 +0000     1971 byte  lib/template/PageView.html</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-04 08:07:56 +0000      477 byte  lib/template/SidebarView.html</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-04 08:07:56 +0000     1195 byte  lib/template/TourSettings.html</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-04 08:07:56 +0000      659 byte  lib/template/TourView.html</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-04 08:07:56 +0000     1202 byte  lib/template/UI.html</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-04 08:07:56 +0000      952 byte  lib/template/app/README.md</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-04 08:07:56 +0000       52 byte  lib/template/app/config/default.json</tspan>
-<tspan x="10" y="1626">100.  2017-04-04 08:07:56 +0000      805 byte  lib/template/app/config/external.js</tspan>
-<tspan x="10" y="1642">101.  2017-04-04 08:07:56 +0000        3 byte  lib/template/app/config/runtime.json</tspan>
-<tspan x="10" y="1658">102.  2017-04-04 08:07:56 +0000       89 byte  lib/template/app/lib/css/app.css</tspan>
-<tspan x="10" y="1674">103.  2017-04-04 08:07:56 +0000      139 byte  lib/template/app/lib/image/README.txt</tspan>
-<tspan x="10" y="1690">104.  2017-04-04 08:07:56 +0000     1072 byte  lib/template/app/lib/index.js</tspan>
-<tspan x="10" y="1706">105.  2017-04-04 08:07:56 +0000      537 byte  lib/template/app/lib/probe/SampleProbe.js</tspan>
-<tspan x="10" y="1722">106.  2017-04-04 08:07:56 +0000     4482 byte  lib/template/app/lib/view/SampleView.js</tspan>
-<tspan x="10" y="1738">107.  2017-04-04 08:07:56 +0000       70 byte  lib/template/app/monitor.js</tspan>
-<tspan x="10" y="1754">108.  2017-04-04 08:07:56 +0000      314 byte  lib/template/app/package.json</tspan>
-<tspan x="10" y="1770">109.  2017-04-04 08:07:56 +0000      293 byte  lib/template/index-app.json</tspan>
-<tspan x="10" y="1786">110.  2017-04-04 08:07:56 +0000     3236 byte  lib/template/index.json</tspan>
-<tspan x="10" y="1802">111.  2017-04-04 08:07:56 +0000     2831 byte  monitor.js</tspan>
-<tspan x="10" y="1818">112.  2017-04-04 08:07:56 +0000     2678 byte  package.json</tspan>
-<tspan x="10" y="1834">113.  2017-04-04 08:07:56 +0000     6719 byte  test/ContainedModelTest.js</tspan>
-<tspan x="10" y="1850">114.  2017-04-04 08:07:56 +0000     3459 byte  test/TemplateTest.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-04 08:09:15 +0000  1686842 byte  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-04 08:09:15 +0000     1457 byte  History.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-04 08:09:15 +0000     1082 byte  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-04 08:09:15 +0000      970 byte  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-04 08:09:15 +0000      850 byte  config/default.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-04 08:09:15 +0000      805 byte  config/external.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-04 08:09:15 +0000        2 byte  config/runtime.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-04 08:09:15 +0000     4551 byte  grunt.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-04 08:09:15 +0000     2808 byte  lib/css/default/ComponentSettings.css</tspan>
+<tspan x="10" y="170">  9.  2017-04-04 08:09:15 +0000     4052 byte  lib/css/default/ComponentView.css</tspan>
+<tspan x="10" y="186"> 10.  2017-04-04 08:09:15 +0000      449 byte  lib/css/default/DropDownMenu.css</tspan>
+<tspan x="10" y="202"> 11.  2017-04-04 08:09:15 +0000      762 byte  lib/css/default/JsonView.css</tspan>
+<tspan x="10" y="218"> 12.  2017-04-04 08:09:15 +0000      171 byte  lib/css/default/MonitorPicker.css</tspan>
+<tspan x="10" y="234"> 13.  2017-04-04 08:09:15 +0000     1202 byte  lib/css/default/NewComponentView.css</tspan>
+<tspan x="10" y="250"> 14.  2017-04-04 08:09:15 +0000     2727 byte  lib/css/default/PageSettings.css</tspan>
+<tspan x="10" y="266"> 15.  2017-04-04 08:09:15 +0000     4496 byte  lib/css/default/PageView.css</tspan>
+<tspan x="10" y="282"> 16.  2017-04-04 08:09:15 +0000     1815 byte  lib/css/default/SidebarView.css</tspan>
+<tspan x="10" y="298"> 17.  2017-04-04 08:09:15 +0000     1550 byte  lib/css/default/TourSettings.css</tspan>
+<tspan x="10" y="314"> 18.  2017-04-04 08:09:15 +0000     2274 byte  lib/css/default/TourView.css</tspan>
+<tspan x="10" y="330"> 19.  2017-04-04 08:09:15 +0000      603 byte  lib/css/default/TreeView.css</tspan>
+<tspan x="10" y="346"> 20.  2017-04-04 08:09:15 +0000     2818 byte  lib/css/default/UI.css</tspan>
+<tspan x="10" y="362"> 21.  2017-04-04 08:09:15 +0000    90600 byte  lib/css/default/bootstrap.css</tspan>
+<tspan x="10" y="378"> 22.  2017-04-04 08:09:15 +0000    79105 byte  lib/css/default/bootstrap.min.css</tspan>
+<tspan x="10" y="394"> 23.  2017-04-04 08:09:15 +0000    14981 byte  lib/css/default/font-awesome.css</tspan>
+<tspan x="10" y="410"> 24.  2017-04-04 08:09:15 +0000    22740 byte  lib/css/default/images/backbone-logo.png</tspan>
+<tspan x="10" y="426"> 25.  2017-04-04 08:09:15 +0000     2817 byte  lib/css/default/images/background.jpg</tspan>
+<tspan x="10" y="442"> 26.  2017-04-04 08:09:15 +0000    11774 byte  lib/css/default/images/default-component-icon.png</tspan>
+<tspan x="10" y="458"> 27.  2017-04-04 08:09:15 +0000    81170 byte  lib/css/default/images/favicon.ico</tspan>
+<tspan x="10" y="474"> 28.  2017-04-04 08:09:15 +0000    24546 byte  lib/css/default/images/highcharts.png</tspan>
+<tspan x="10" y="490"> 29.  2017-04-04 08:09:15 +0000     4213 byte  lib/css/default/images/jquery-logo.gif</tspan>
+<tspan x="10" y="506"> 30.  2017-04-04 08:09:15 +0000    30875 byte  lib/css/default/images/monitor.jpg</tspan>
+<tspan x="10" y="522"> 31.  2017-04-04 08:09:15 +0000     5081 byte  lib/css/default/images/nodejs-logo.png</tspan>
+<tspan x="10" y="538"> 32.  2017-04-04 08:09:15 +0000    38708 byte  lib/css/font/fontawesome-webfont.eot</tspan>
+<tspan x="10" y="554"> 33.  2017-04-04 08:09:15 +0000   130151 byte  lib/css/font/fontawesome-webfont.svg</tspan>
+<tspan x="10" y="570"> 34.  2017-04-04 08:09:15 +0000    68476 byte  lib/css/font/fontawesome-webfont.ttf</tspan>
+<tspan x="10" y="586"> 35.  2017-04-04 08:09:15 +0000    41752 byte  lib/css/font/fontawesome-webfont.woff</tspan>
+<tspan x="10" y="602"> 36.  2017-04-04 08:09:15 +0000    10358 byte  lib/ext/Backbone.ModelBinder.min.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-04 08:09:15 +0000     2393 byte  lib/ext/bootstrap-alert.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-04 08:09:15 +0000     2729 byte  lib/ext/bootstrap-dropdown.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-04 08:09:15 +0000     5678 byte  lib/ext/bootstrap-modal.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-04 08:09:15 +0000     7656 byte  lib/ext/bootstrap-tooltip.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-04 08:09:15 +0000    50119 byte  lib/ext/bootstrap.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-04 08:09:15 +0000    22455 byte  lib/ext/bootstrap.min.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-04 08:09:15 +0000    12973 byte  lib/ext/images/colors.png</tspan>
+<tspan x="10" y="730"> 44.  2017-04-04 08:09:15 +0000      706 byte  lib/ext/images/trigger.png</tspan>
+<tspan x="10" y="746"> 45.  2017-04-04 08:09:15 +0000    93435 byte  lib/ext/jquery-1.8.2.min.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-04 08:09:15 +0000     2228 byte  lib/ext/jquery.miniColors.css</tspan>
+<tspan x="10" y="778"> 47.  2017-04-04 08:09:15 +0000    13870 byte  lib/ext/jquery.miniColors.min.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-04 08:09:15 +0000    15505 byte  lib/ext/mustache-0.7.0-dev.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-04 08:09:15 +0000     5449 byte  lib/ext/numeral.min.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-04 08:09:15 +0000   175830 byte  lib/ext/socket.io/WebSocketMain.swf</tspan>
+<tspan x="10" y="842"> 51.  2017-04-04 08:09:15 +0000   175953 byte  lib/ext/socket.io/WebSocketMainInsecure.swf</tspan>
+<tspan x="10" y="858"> 52.  2017-04-04 08:09:15 +0000   100943 byte  lib/ext/socket.io/socket.io.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-04 08:09:15 +0000    44614 byte  lib/ext/socket.io/socket.io.min.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-04 08:09:15 +0000      971 byte  lib/index.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-04 08:09:15 +0000     3851 byte  lib/js/AppTemplate.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-04 08:09:15 +0000     4079 byte  lib/js/Component.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-04 08:09:15 +0000     6811 byte  lib/js/ComponentSettingsView.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-04 08:09:15 +0000    17852 byte  lib/js/ComponentView.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-04 08:09:15 +0000     2411 byte  lib/js/DropDownMenu.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-04 08:09:15 +0000     2915 byte  lib/js/IconChooser.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-04 08:09:15 +0000     7022 byte  lib/js/JsonView.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-04 08:09:15 +0000    11031 byte  lib/js/MonitorPicker.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-04 08:09:15 +0000     4579 byte  lib/js/NetworkMap.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-04 08:09:15 +0000     5250 byte  lib/js/NewComponentView.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-04 08:09:15 +0000     3250 byte  lib/js/Page.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-04 08:09:15 +0000     5080 byte  lib/js/PageSettingsView.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-04 08:09:15 +0000    18214 byte  lib/js/PageView.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-04 08:09:15 +0000    14177 byte  lib/js/PagesProbe.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-04 08:09:15 +0000    23699 byte  lib/js/Server.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-04 08:09:15 +0000     4895 byte  lib/js/SettingsView.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-04 08:09:15 +0000     2373 byte  lib/js/Sidebar.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-04 08:09:15 +0000     7684 byte  lib/js/SidebarView.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-04 08:09:15 +0000     1212 byte  lib/js/Site.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-04 08:09:15 +0000     7165 byte  lib/js/Template.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-04 08:09:15 +0000     1899 byte  lib/js/Tour.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-04 08:09:15 +0000    10193 byte  lib/js/TourSettingsView.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-04 08:09:15 +0000     6114 byte  lib/js/TourView.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-04 08:09:15 +0000     1237 byte  lib/js/ToursProbe.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-04 08:09:15 +0000     5472 byte  lib/js/Tree.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-04 08:09:15 +0000     1943 byte  lib/js/TreeProbe.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-04 08:09:15 +0000    12142 byte  lib/js/TreeView.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-04 08:09:15 +0000    20436 byte  lib/js/UI.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-04 08:09:15 +0000     1030 byte  lib/template/404.json</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-04 08:09:15 +0000     5635 byte  lib/template/About.html</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-04 08:09:15 +0000      159 byte  lib/template/ComponentIcon.html</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-04 08:09:15 +0000     2385 byte  lib/template/ComponentSettings.html</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-04 08:09:15 +0000      610 byte  lib/template/ComponentView.html</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-04 08:09:15 +0000      505 byte  lib/template/NewComponentView.html</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-04 08:09:15 +0000      542 byte  lib/template/NewPage.html</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-04 08:09:15 +0000      463 byte  lib/template/NewTourPage.html</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-04 08:09:15 +0000      619 byte  lib/template/PageCopy.html</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-04 08:09:15 +0000     2375 byte  lib/template/PageSettings.html</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-04 08:09:15 +0000     1971 byte  lib/template/PageView.html</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-04 08:09:15 +0000      477 byte  lib/template/SidebarView.html</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-04 08:09:15 +0000     1195 byte  lib/template/TourSettings.html</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-04 08:09:15 +0000      659 byte  lib/template/TourView.html</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-04 08:09:15 +0000     1202 byte  lib/template/UI.html</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-04 08:09:15 +0000      952 byte  lib/template/app/README.md</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-04 08:09:15 +0000       52 byte  lib/template/app/config/default.json</tspan>
+<tspan x="10" y="1626">100.  2017-04-04 08:09:15 +0000      805 byte  lib/template/app/config/external.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-04 08:09:15 +0000        3 byte  lib/template/app/config/runtime.json</tspan>
+<tspan x="10" y="1658">102.  2017-04-04 08:09:15 +0000       89 byte  lib/template/app/lib/css/app.css</tspan>
+<tspan x="10" y="1674">103.  2017-04-04 08:09:15 +0000      139 byte  lib/template/app/lib/image/README.txt</tspan>
+<tspan x="10" y="1690">104.  2017-04-04 08:09:15 +0000     1072 byte  lib/template/app/lib/index.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-04 08:09:15 +0000      537 byte  lib/template/app/lib/probe/SampleProbe.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-04 08:09:15 +0000     4482 byte  lib/template/app/lib/view/SampleView.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-04 08:09:15 +0000       70 byte  lib/template/app/monitor.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-04 08:09:15 +0000      314 byte  lib/template/app/package.json</tspan>
+<tspan x="10" y="1770">109.  2017-04-04 08:09:15 +0000      293 byte  lib/template/index-app.json</tspan>
+<tspan x="10" y="1786">110.  2017-04-04 08:09:15 +0000     3236 byte  lib/template/index.json</tspan>
+<tspan x="10" y="1802">111.  2017-04-04 08:09:15 +0000     2831 byte  monitor.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-04 08:09:15 +0000     2678 byte  package.json</tspan>
+<tspan x="10" y="1834">113.  2017-04-04 08:09:15 +0000     6719 byte  test/ContainedModelTest.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-04 08:09:15 +0000     3459 byte  test/TemplateTest.js</tspan>
 </text>
 </svg>
