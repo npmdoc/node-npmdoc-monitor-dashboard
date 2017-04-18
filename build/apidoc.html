@@ -61,12 +61,213 @@
 
     <li class="apidocModuleLi"><a href="#apidoc.module.monitor-dashboard">module monitor-dashboard</a><ol>
 
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.monitor-dashboard.grunt">
+            function <span class="apidocSignatureSpan">monitor-dashboard.</span>grunt
+            <span class="apidocSignatureSpan">(grunt)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.monitor-dashboard.grunt">module monitor-dashboard.grunt</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.monitor-dashboard.grunt.grunt">
+            function <span class="apidocSignatureSpan">monitor-dashboard.</span>grunt
+            <span class="apidocSignatureSpan">(grunt)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">monitor-dashboard.grunt.</span>MODULE_DEF</span>
+
+        </li>
+
     </ol></li>
 
 </ol></div>
 
 <div class="apidocSectionDiv">
 <h1><a href="#apidoc.module.monitor-dashboard" id="apidoc.module.monitor-dashboard">module monitor-dashboard</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.monitor-dashboard.grunt" id="apidoc.element.monitor-dashboard.grunt">
+        function <span class="apidocSignatureSpan">monitor-dashboard.</span>grunt
+        <span class="apidocSignatureSpan">(grunt)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">grunt = function (grunt) {
+
+  // Project configuration.
+  grunt.initConfig({
+    pkg: &#x27;&#x3c;json:package.json&#x3e;&#x27;,
+    module: MODULE_DEF,
+    lint: {
+      files: [&#x27;grunt.js&#x27;, &#x27;&#x3c;config:module.server_js&#x3e;&#x27;, &#x27;&#x3c;config:module.client_js&#x3e;&#x27;, &#x27;test/**/*.js&#x27;]
+    },
+    test: {
+      files: [&#x27;test/**/*.js&#x27;]
+    },
+    watch: {
+      files: [&#x27;grunt.js&#x27;, &#x27;&#x3c;config:module.server_js&#x3e;&#x27;, &#x27;&#x3c;config:module.client_js&#x3e;&#x27;, &#x27;test/**/*.js&#x27;],
+      tasks: &#x27;default&#x27;
+    },
+    min: {
+      ui: {
+        src: [&#x27;&#x3c;config:monitor.lib&#x3e;&#x27;, &#x27;&#x3c;config.monitor.ui&#x3e;&#x27;],
+        dest: &#x27;/tmp/monitor-base-min.js&#x27;
+      },
+      css: {
+        src: [&#x27;ui/client/css/all.css&#x27;],
+        dest: &#x27;ui/client/css/all.min.css&#x27;
+      }
+    },
+    concat: {
+      ui: {
+        src: [&#x27;&#x3c;config:monitor.ext&#x3e;&#x27;, &#x27;/tmp/monitor-base-min.js&#x27;],
+        dest: &#x27;ui/client/src/monitor-min.js&#x27;
+      },
+      css: {
+        src: [&#x27;&#x3c;config:monitor.css&#x3e;&#x27;],
+        dest: &#x27;ui/client/css/all.css&#x27;
+      }
+    },
+    jshint: {
+      options: {
+        strict: false,
+        curly: true,
+        eqeqeq: true,
+        immed: true,
+        latedef: true,
+        newcap: true,
+        noarg: true,
+        sub: true,
+        undef: true,
+        boss: true,
+        eqnull: true,
+        node: true
+      },
+      globals: {
+        exports: true
+      }
+    }
+  });
+
+  grunt.registerTask(&#x27;doc&#x27;, &#x27;Generate documentation files&#x27;, function() {
+    var t = this, done = t.async(), child;
+    child = exec(&#x27;yuidoc -c ./yuidoc.json&#x27;, function (error, stdout, stderr) {
+      console.log(stderr);
+      console.log(stdout);
+      done();
+    });
+  });
+
+  // Default task.
+  grunt.registerTask(&#x27;default&#x27;, &#x27;doc lint test&#x27;);
+  grunt.registerTask(&#x27;dist&#x27;, &#x27;min:ui concat:ui concat:css&#x27;);
+
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.monitor-dashboard.grunt" id="apidoc.module.monitor-dashboard.grunt">module monitor-dashboard.grunt</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.monitor-dashboard.grunt.grunt" id="apidoc.element.monitor-dashboard.grunt.grunt">
+        function <span class="apidocSignatureSpan">monitor-dashboard.</span>grunt
+        <span class="apidocSignatureSpan">(grunt)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">grunt = function (grunt) {
+
+  // Project configuration.
+  grunt.initConfig({
+    pkg: &#x27;&#x3c;json:package.json&#x3e;&#x27;,
+    module: MODULE_DEF,
+    lint: {
+      files: [&#x27;grunt.js&#x27;, &#x27;&#x3c;config:module.server_js&#x3e;&#x27;, &#x27;&#x3c;config:module.client_js&#x3e;&#x27;, &#x27;test/**/*.js&#x27;]
+    },
+    test: {
+      files: [&#x27;test/**/*.js&#x27;]
+    },
+    watch: {
+      files: [&#x27;grunt.js&#x27;, &#x27;&#x3c;config:module.server_js&#x3e;&#x27;, &#x27;&#x3c;config:module.client_js&#x3e;&#x27;, &#x27;test/**/*.js&#x27;],
+      tasks: &#x27;default&#x27;
+    },
+    min: {
+      ui: {
+        src: [&#x27;&#x3c;config:monitor.lib&#x3e;&#x27;, &#x27;&#x3c;config.monitor.ui&#x3e;&#x27;],
+        dest: &#x27;/tmp/monitor-base-min.js&#x27;
+      },
+      css: {
+        src: [&#x27;ui/client/css/all.css&#x27;],
+        dest: &#x27;ui/client/css/all.min.css&#x27;
+      }
+    },
+    concat: {
+      ui: {
+        src: [&#x27;&#x3c;config:monitor.ext&#x3e;&#x27;, &#x27;/tmp/monitor-base-min.js&#x27;],
+        dest: &#x27;ui/client/src/monitor-min.js&#x27;
+      },
+      css: {
+        src: [&#x27;&#x3c;config:monitor.css&#x3e;&#x27;],
+        dest: &#x27;ui/client/css/all.css&#x27;
+      }
+    },
+    jshint: {
+      options: {
+        strict: false,
+        curly: true,
+        eqeqeq: true,
+        immed: true,
+        latedef: true,
+        newcap: true,
+        noarg: true,
+        sub: true,
+        undef: true,
+        boss: true,
+        eqnull: true,
+        node: true
+      },
+      globals: {
+        exports: true
+      }
+    }
+  });
+
+  grunt.registerTask(&#x27;doc&#x27;, &#x27;Generate documentation files&#x27;, function() {
+    var t = this, done = t.async(), child;
+    child = exec(&#x27;yuidoc -c ./yuidoc.json&#x27;, function (error, stdout, stderr) {
+      console.log(stderr);
+      console.log(stdout);
+      done();
+    });
+  });
+
+  // Default task.
+  grunt.registerTask(&#x27;default&#x27;, &#x27;doc lint test&#x27;);
+  grunt.registerTask(&#x27;dist&#x27;, &#x27;min:ui concat:ui concat:css&#x27;);
+
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
 
 </div>
 

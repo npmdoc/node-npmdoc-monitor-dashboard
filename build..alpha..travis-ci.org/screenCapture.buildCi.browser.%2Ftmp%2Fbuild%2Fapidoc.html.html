@@ -1,4 +1,4 @@
-<div class="apidocDiv">
+<html><head></head><body><div class="apidocDiv">
 <style>
 /*csslint
 */
@@ -47,17 +47,10 @@
 }
 </style>
 <h1>api documentation for
-    <a
-
-        href="http://github.com/lorenwest/monitor-dashboard/"
-
-    >monitor-dashboard (v0.6.7)</a>
+    <a href="http://github.com/lorenwest/monitor-dashboard/">monitor-dashboard (v0.6.7)</a>
 </h1>
 <h4>Dashboard UI for node monitor</h4>
-<div class="apidocSectionDiv"><a
-    href="#apidoc.tableOfContents"
-    id="apidoc.tableOfContents"
-><h1>table of contents</h1></a><ol>
+<div class="apidocSectionDiv"><a href="#apidoc.tableOfContents" id="apidoc.tableOfContents"><h1>table of contents</h1></a><ol>
 
     <li class="apidocModuleLi"><a href="#apidoc.module.monitor-dashboard">module monitor-dashboard</a><ol>
 
@@ -108,36 +101,36 @@
 
   // Project configuration.
   grunt.initConfig({
-    pkg: &#x27;&#x3c;json:package.json&#x3e;&#x27;,
+    pkg: '&lt;json:package.json&gt;',
     module: MODULE_DEF,
     lint: {
-      files: [&#x27;grunt.js&#x27;, &#x27;&#x3c;config:module.server_js&#x3e;&#x27;, &#x27;&#x3c;config:module.client_js&#x3e;&#x27;, &#x27;test/**/*.js&#x27;]
+      files: ['grunt.js', '&lt;config:module.server_js&gt;', '&lt;config:module.client_js&gt;', 'test/**/*.js']
     },
     test: {
-      files: [&#x27;test/**/*.js&#x27;]
+      files: ['test/**/*.js']
     },
     watch: {
-      files: [&#x27;grunt.js&#x27;, &#x27;&#x3c;config:module.server_js&#x3e;&#x27;, &#x27;&#x3c;config:module.client_js&#x3e;&#x27;, &#x27;test/**/*.js&#x27;],
-      tasks: &#x27;default&#x27;
+      files: ['grunt.js', '&lt;config:module.server_js&gt;', '&lt;config:module.client_js&gt;', 'test/**/*.js'],
+      tasks: 'default'
     },
     min: {
       ui: {
-        src: [&#x27;&#x3c;config:monitor.lib&#x3e;&#x27;, &#x27;&#x3c;config.monitor.ui&#x3e;&#x27;],
-        dest: &#x27;/tmp/monitor-base-min.js&#x27;
+        src: ['&lt;config:monitor.lib&gt;', '&lt;config.monitor.ui&gt;'],
+        dest: '/tmp/monitor-base-min.js'
       },
       css: {
-        src: [&#x27;ui/client/css/all.css&#x27;],
-        dest: &#x27;ui/client/css/all.min.css&#x27;
+        src: ['ui/client/css/all.css'],
+        dest: 'ui/client/css/all.min.css'
       }
     },
     concat: {
       ui: {
-        src: [&#x27;&#x3c;config:monitor.ext&#x3e;&#x27;, &#x27;/tmp/monitor-base-min.js&#x27;],
-        dest: &#x27;ui/client/src/monitor-min.js&#x27;
+        src: ['&lt;config:monitor.ext&gt;', '/tmp/monitor-base-min.js'],
+        dest: 'ui/client/src/monitor-min.js'
       },
       css: {
-        src: [&#x27;&#x3c;config:monitor.css&#x3e;&#x27;],
-        dest: &#x27;ui/client/css/all.css&#x27;
+        src: ['&lt;config:monitor.css&gt;'],
+        dest: 'ui/client/css/all.css'
       }
     },
     jshint: {
@@ -161,9 +154,9 @@
     }
   });
 
-  grunt.registerTask(&#x27;doc&#x27;, &#x27;Generate documentation files&#x27;, function() {
+  grunt.registerTask('doc', 'Generate documentation files', function() {
     var t = this, done = t.async(), child;
-    child = exec(&#x27;yuidoc -c ./yuidoc.json&#x27;, function (error, stdout, stderr) {
+    child = exec('yuidoc -c ./yuidoc.json', function (error, stdout, stderr) {
       console.log(stderr);
       console.log(stdout);
       done();
@@ -171,8 +164,8 @@
   });
 
   // Default task.
-  grunt.registerTask(&#x27;default&#x27;, &#x27;doc lint test&#x27;);
-  grunt.registerTask(&#x27;dist&#x27;, &#x27;min:ui concat:ui concat:css&#x27;);
+  grunt.registerTask('default', 'doc lint test');
+  grunt.registerTask('dist', 'min:ui concat:ui concat:css');
 
 }</pre></li>
     <li>example usage<pre class="apidocCodePre">n/a</pre></li>
@@ -196,36 +189,36 @@
 
   // Project configuration.
   grunt.initConfig({
-    pkg: &#x27;&#x3c;json:package.json&#x3e;&#x27;,
+    pkg: '&lt;json:package.json&gt;',
     module: MODULE_DEF,
     lint: {
-      files: [&#x27;grunt.js&#x27;, &#x27;&#x3c;config:module.server_js&#x3e;&#x27;, &#x27;&#x3c;config:module.client_js&#x3e;&#x27;, &#x27;test/**/*.js&#x27;]
+      files: ['grunt.js', '&lt;config:module.server_js&gt;', '&lt;config:module.client_js&gt;', 'test/**/*.js']
     },
     test: {
-      files: [&#x27;test/**/*.js&#x27;]
+      files: ['test/**/*.js']
     },
     watch: {
-      files: [&#x27;grunt.js&#x27;, &#x27;&#x3c;config:module.server_js&#x3e;&#x27;, &#x27;&#x3c;config:module.client_js&#x3e;&#x27;, &#x27;test/**/*.js&#x27;],
-      tasks: &#x27;default&#x27;
+      files: ['grunt.js', '&lt;config:module.server_js&gt;', '&lt;config:module.client_js&gt;', 'test/**/*.js'],
+      tasks: 'default'
     },
     min: {
       ui: {
-        src: [&#x27;&#x3c;config:monitor.lib&#x3e;&#x27;, &#x27;&#x3c;config.monitor.ui&#x3e;&#x27;],
-        dest: &#x27;/tmp/monitor-base-min.js&#x27;
+        src: ['&lt;config:monitor.lib&gt;', '&lt;config.monitor.ui&gt;'],
+        dest: '/tmp/monitor-base-min.js'
       },
       css: {
-        src: [&#x27;ui/client/css/all.css&#x27;],
-        dest: &#x27;ui/client/css/all.min.css&#x27;
+        src: ['ui/client/css/all.css'],
+        dest: 'ui/client/css/all.min.css'
       }
     },
     concat: {
       ui: {
-        src: [&#x27;&#x3c;config:monitor.ext&#x3e;&#x27;, &#x27;/tmp/monitor-base-min.js&#x27;],
-        dest: &#x27;ui/client/src/monitor-min.js&#x27;
+        src: ['&lt;config:monitor.ext&gt;', '/tmp/monitor-base-min.js'],
+        dest: 'ui/client/src/monitor-min.js'
       },
       css: {
-        src: [&#x27;&#x3c;config:monitor.css&#x3e;&#x27;],
-        dest: &#x27;ui/client/css/all.css&#x27;
+        src: ['&lt;config:monitor.css&gt;'],
+        dest: 'ui/client/css/all.css'
       }
     },
     jshint: {
@@ -249,9 +242,9 @@
     }
   });
 
-  grunt.registerTask(&#x27;doc&#x27;, &#x27;Generate documentation files&#x27;, function() {
+  grunt.registerTask('doc', 'Generate documentation files', function() {
     var t = this, done = t.async(), child;
-    child = exec(&#x27;yuidoc -c ./yuidoc.json&#x27;, function (error, stdout, stderr) {
+    child = exec('yuidoc -c ./yuidoc.json', function (error, stdout, stderr) {
       console.log(stderr);
       console.log(stdout);
       done();
@@ -259,8 +252,8 @@
   });
 
   // Default task.
-  grunt.registerTask(&#x27;default&#x27;, &#x27;doc lint test&#x27;);
-  grunt.registerTask(&#x27;dist&#x27;, &#x27;min:ui concat:ui concat:css&#x27;);
+  grunt.registerTask('default', 'doc lint test');
+  grunt.registerTask('dist', 'min:ui concat:ui concat:css');
 
 }</pre></li>
     <li>example usage<pre class="apidocCodePre">n/a</pre></li>
@@ -277,3 +270,4 @@
     ]
 </div>
 </div>
+</body></html>
