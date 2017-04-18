@@ -1,9 +1,14 @@
-# api documentation for  [monitor-dashboard (v0.6.7)](http://github.com/lorenwest/monitor-dashboard/)  [![npm package](https://img.shields.io/npm/v/npmdoc-monitor-dashboard.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-monitor-dashboard) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-monitor-dashboard.svg)](https://travis-ci.org/npmdoc/node-npmdoc-monitor-dashboard)
+# npmdoc-monitor-dashboard
+
+#### api documentation for  [monitor-dashboard (v0.6.7)](http://github.com/lorenwest/monitor-dashboard/)  [![npm package](https://img.shields.io/npm/v/npmdoc-monitor-dashboard.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-monitor-dashboard) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-monitor-dashboard.svg)](https://travis-ci.org/npmdoc/node-npmdoc-monitor-dashboard)
+
 #### Dashboard UI for node monitor
 
-[![NPM](https://nodei.co/npm/monitor-dashboard.png?downloads=true)](https://www.npmjs.com/package/monitor-dashboard)
+[![NPM](https://nodei.co/npm/monitor-dashboard.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/monitor-dashboard)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-monitor-dashboard/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-monitor-dashboard_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-monitor-dashboard/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-monitor-dashboard/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-monitor-dashboard/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-monitor-dashboard/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-monitor-dashboard/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-monitor-dashboard/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Loren West",
-        "email": "open_source@lorenwest.com",
         "url": "http://github.com/lorenwest"
     },
     "bugs": {
@@ -63,13 +67,11 @@
     "main": "monitor.js",
     "maintainers": [
         {
-            "name": "lorenwest",
-            "email": "npm@lorenwest.com"
+            "name": "lorenwest"
         }
     ],
     "name": "monitor-dashboard",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/lorenwest/monitor-dashboard.git"
@@ -81,16 +83,6 @@
     "version": "0.6.7"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module monitor-dashboard](#apidoc.module.monitor-dashboard)
-
-
-
-# <a name="apidoc.module.monitor-dashboard"></a>[module monitor-dashboard](#apidoc.module.monitor-dashboard)
 
 
 
