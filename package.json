@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "monitor-dashboard",
-    "description": "#### api documentation for  [monitor-dashboard (v0.6.7)](http://github.com/lorenwest/monitor-dashboard/)  [![npm package](https://img.shields.io/npm/v/npmdoc-monitor-dashboard.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-monitor-dashboard) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-monitor-dashboard.svg)](https://travis-ci.org/npmdoc/node-npmdoc-monitor-dashboard)",
+    "description": "#### basic api documentation for  [monitor-dashboard (v0.6.7)](http://github.com/lorenwest/monitor-dashboard/)  [![npm package](https://img.shields.io/npm/v/npmdoc-monitor-dashboard.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-monitor-dashboard) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-monitor-dashboard.svg)](https://travis-ci.org/npmdoc/node-npmdoc-monitor-dashboard)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "monitor-dashboard": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.3"
+    "version": "2017.4.25"
 }

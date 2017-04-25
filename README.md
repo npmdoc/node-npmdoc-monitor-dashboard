@@ -1,6 +1,6 @@
 # npmdoc-monitor-dashboard
 
-#### api documentation for  [monitor-dashboard (v0.6.7)](http://github.com/lorenwest/monitor-dashboard/)  [![npm package](https://img.shields.io/npm/v/npmdoc-monitor-dashboard.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-monitor-dashboard) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-monitor-dashboard.svg)](https://travis-ci.org/npmdoc/node-npmdoc-monitor-dashboard)
+#### basic api documentation for  [monitor-dashboard (v0.6.7)](http://github.com/lorenwest/monitor-dashboard/)  [![npm package](https://img.shields.io/npm/v/npmdoc-monitor-dashboard.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-monitor-dashboard) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-monitor-dashboard.svg)](https://travis-ci.org/npmdoc/node-npmdoc-monitor-dashboard)
 
 #### Dashboard UI for node monitor
 
@@ -80,7 +80,8 @@
         "start": "node monitor",
         "test": "grunt test"
     },
-    "version": "0.6.7"
+    "version": "0.6.7",
+    "bin": {}
 }
 ```
 
